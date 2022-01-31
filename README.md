@@ -10,7 +10,3 @@
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=voidswordqqj&show_icons=true&theme=onedark&locale=en" alt="voidswordqqj" /></p>
-
-<p></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidswordqqj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="voidswordqqj" /></p>
