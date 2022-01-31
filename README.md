@@ -1,10 +1,14 @@
-<h1 align="center">Eleven 十一</h1>
-<h3 align="center">当你以为我鸽的时候鸽了，既是一种不鸽。</h3>
+<h1 align="center">Grand Caster Eleven</h1>
+<h3 align="center">Just a normal caster.</h3>
 
+- 🌱 I’m currently learning **Alibaba Java Coding Guidelines**
 
+- 📝 I regularly write articles on [https://github.com/voidswordQQJ/blog/issues](https://github.com/voidswordQQJ/blog/issues)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voidswordqqj&show_icons=true&locale=cn" alt="voidswordqqj" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidswordqqj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="voidswordqqj" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidswordqqj&show_icons=true&locale=cn&layout=compact" alt="voidswordqqj" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=voidswordqqj&show_icons=true&theme=onedark&locale=en" alt="voidswordqqj" /></p>
